@@ -5,6 +5,7 @@
 ## Contents
 
 - [Launch Platforms](#-launch-platforms)
+- [AI Agent Directories](#-ai-agent-directories)
 - [Contributions](#-contributions)
 - [License](#-license)
 
@@ -13,6 +14,14 @@
 ## 🚀 Launch Platforms
 
 * [IndieTool](https://indietool.io/) – Launch platform for builders and founders to submit products, gain visibility, and discover new tools.
+* [DanielLaunches](https://daniellaunches.com/) – Launch platform for founders to submit products, get a permanent launch page, and track traffic.
+* [Nick Launches](https://nicklaunches.com/) – Launch platform for founders to showcase new products, connect with builders, and earn backlinks.
+
+---
+
+## 🤖 AI Agent Directories
+
+* [AI Agents Listing](https://aiagentslisting.com/) – Curated directory of AI agents, MCP servers, and agent skills.
 
 ---
 
