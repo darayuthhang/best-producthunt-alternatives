@@ -17,6 +17,7 @@
 * [DanielLaunches](https://daniellaunches.com/) – Launch platform for founders to submit products, get a permanent launch page, and track traffic.
 * [Nick Launches](https://nicklaunches.com/) – Launch platform for founders to showcase new products, connect with builders, and earn backlinks.
 * [Noonlaunch](https://noonlaunch.com/) – Product launch platform to help you get cited in AI search engines with permanent do-follow backlink to rank you higher in Google.
+* [Awesome Indie](https://awesomeindie.com/) – Daily launch platform for indie makers and solo founders, with products ranked by community upvotes and weekly, monthly, and yearly leaderboards.
 ---
 
 ## 🤖 AI Agent Directories
